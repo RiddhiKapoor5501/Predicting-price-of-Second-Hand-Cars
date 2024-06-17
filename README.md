@@ -9,3 +9,7 @@ Numpy
 Keras
 Matplotlib
 Seaborn
+
+# Conclusion
+The following graph shows the predicted car price vs actual car price 
+![Uploading image.png…]()
